@@ -55,3 +55,7 @@ D:\Aiub Document\10th semister\Asp.net Core\Asp.net Core  and Angular 11 E-Comme
 D:\Aiub Document\10th semister\Asp.net Core\Asp.net Core  and Angular 11 E-Commerce\skinet\API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
 D:\Aiub Document\10th semister\Asp.net Core\Asp.net Core  and Angular 11 E-Commerce\skinet\API\bin\Debug\net5.0\Humanizer.dll
 D:\Aiub Document\10th semister\Asp.net Core\Asp.net Core  and Angular 11 E-Commerce\skinet\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Aiub Document\10th semister\Asp.net Core\Asp.net Core  and Angular 11 E-Commerce\skinet\API\bin\Debug\net5.0\Core.dll
+D:\Aiub Document\10th semister\Asp.net Core\Asp.net Core  and Angular 11 E-Commerce\skinet\API\bin\Debug\net5.0\Infrastructure.dll
+D:\Aiub Document\10th semister\Asp.net Core\Asp.net Core  and Angular 11 E-Commerce\skinet\API\bin\Debug\net5.0\Infrastructure.pdb
+D:\Aiub Document\10th semister\Asp.net Core\Asp.net Core  and Angular 11 E-Commerce\skinet\API\bin\Debug\net5.0\Core.pdb
