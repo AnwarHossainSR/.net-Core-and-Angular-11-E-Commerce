@@ -1,0 +1,12 @@
+D:\Aiub Document\10th semister\Asp.net Core\Asp.net Core  and Angular 11 E-Commerce\skinet\Core\bin\Debug\net5.0\Core.deps.json
+D:\Aiub Document\10th semister\Asp.net Core\Asp.net Core  and Angular 11 E-Commerce\skinet\Core\bin\Debug\net5.0\Core.dll
+D:\Aiub Document\10th semister\Asp.net Core\Asp.net Core  and Angular 11 E-Commerce\skinet\Core\bin\Debug\net5.0\ref\Core.dll
+D:\Aiub Document\10th semister\Asp.net Core\Asp.net Core  and Angular 11 E-Commerce\skinet\Core\bin\Debug\net5.0\Core.pdb
+D:\Aiub Document\10th semister\Asp.net Core\Asp.net Core  and Angular 11 E-Commerce\skinet\Core\obj\Debug\net5.0\Core.csproj.AssemblyReference.cache
+D:\Aiub Document\10th semister\Asp.net Core\Asp.net Core  and Angular 11 E-Commerce\skinet\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aiub Document\10th semister\Asp.net Core\Asp.net Core  and Angular 11 E-Commerce\skinet\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+D:\Aiub Document\10th semister\Asp.net Core\Asp.net Core  and Angular 11 E-Commerce\skinet\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+D:\Aiub Document\10th semister\Asp.net Core\Asp.net Core  and Angular 11 E-Commerce\skinet\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+D:\Aiub Document\10th semister\Asp.net Core\Asp.net Core  and Angular 11 E-Commerce\skinet\Core\obj\Debug\net5.0\Core.dll
+D:\Aiub Document\10th semister\Asp.net Core\Asp.net Core  and Angular 11 E-Commerce\skinet\Core\obj\Debug\net5.0\ref\Core.dll
+D:\Aiub Document\10th semister\Asp.net Core\Asp.net Core  and Angular 11 E-Commerce\skinet\Core\obj\Debug\net5.0\Core.pdb
